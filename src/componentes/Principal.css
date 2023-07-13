@@ -1,0 +1,36 @@
+section{
+    margin: 40px 20px;
+}
+
+.contenedorPrincipal{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+h1{
+    font-size: 65px;
+    margin-left: 90px;
+}
+h3{
+    font-size: 40px;
+    margin-left: 97px;
+}
+
+.btn{
+    background-color: rgb(211, 194, 11);
+    margin-left: 375px;
+
+}
+
+.contenedorSecundario{
+    
+    margin: 50px 0 50px 50px;
+}
+
+.manchaGrande{
+    height: 420px;
+    width: 400px;
+    margin-right: 30px;
+}

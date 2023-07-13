@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+h2{
+    background-color: coral;
+}
+nav{
+    background-color: fuchsia;
+}
+
