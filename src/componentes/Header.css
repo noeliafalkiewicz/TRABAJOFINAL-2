@@ -1,13 +1,35 @@
 header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;  
+       
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+    transform: scale(1.5);
+    margin-top: -12px;
+}
+
+.logoContenedor{
+    background-color: black;
+    width: 93px;
+    height: 93px;
+    overflow: hidden;
+    border-radius: 100%;
+}
+  
+  
+
+nav{
+    justify-content: space-around; 
+    margin-top: 2rem;    
     
 }
 
-h2{
-    background-color: coral;
-}
-nav{
-    background-color: fuchsia;
+a {
+    font-size: 25px;
+   letter-spacing: 1px; 
+   margin-right: 50px;
 }
 
