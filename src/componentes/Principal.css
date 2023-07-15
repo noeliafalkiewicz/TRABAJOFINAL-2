@@ -1,3 +1,92 @@
+.manchaGrande {
+    display: none;
+  }
+  @media (min-width: 991.98px) {
+    .manchaGrande {
+      display: inline;
+    }
+  }
+  .hola{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    color: #a2b2c4;
+  }
+  @media (min-width: 300px) {
+    .hola{
+      font-size: 30px;
+      color: #a2b2c4;
+    }
+  }
+
+  .hola{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    color: #a2b2c4;
+  }
+  @media (min-width: 575.98px) {
+    .hola{
+      font-size: 60px;
+      color: #a2b2c4;
+    }
+  }
+
+  .hola{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    color: #a2b2c4;
+    margin-left: 0;
+  }
+  @media (min-width: 991.98px) {
+    .hola{
+      font-size: 90px;
+      margin-left: 60px;
+      color: #a2b2c4;
+      padding-top: 40px;
+    }
+  }
+
+  
+  .noe{
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    color: #a2b2c4;
+  }
+  @media (min-width: 575.98px) { 
+    .noe{
+      font-size: 30px;
+    }
+  }
+
+  .noe{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+  }
+  @media (min-width: 991.98px) { 
+    .noe{
+      font-size: 45px;
+      margin-left: 170px;
+      color: #a2b2c4;
+    }
+  }
+
+.btn{
+    display: flex;
+    justify-content: center; 
+      
+}
+@media (min-width: 991.98px) {
+    .btn {
+      margin-left: 350px;
+    }
+}
 
 section{
     margin: 2% 3% 6% 3%;
@@ -14,18 +103,6 @@ section{
     margin-left: -3rem;
 }
 
-h1{
-    font-size: 90px;
-    margin-left: 60px;
-    color: #a2b2c4;
-    padding-top: 40px;
-}
-
-h3{
-    font-size: 45px;
-    margin-left: 165px;
-    color: #a2b2c4;
-}
 
 .btn{
     color: white;

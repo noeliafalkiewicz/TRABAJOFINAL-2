@@ -1,14 +1,19 @@
 import './Header.css'
 import logo from './logo.png'
+import menu from './menuHamburguesa.svg'
 
 function Header () {
     return (
         
         <header class="alert" role="alert">
+            
             <div className='logoContenedor shadow-lg p-3 mb-5 bg-body-tertiary rounded rounded-circle'>
                <img src={logo} className='logo' ></img> 
             </div>
-            <nav>
+            <box className='box'>
+               <img src={menu} className='menu'></img>  
+            </box>
+            <nav className='nav'>
                 <ul class="nav justify-content-end">
                      <li class="nav-item">
                        <a class="link-danger link-offset-2 link-offset-3-hover link-underline
