@@ -1,19 +1,88 @@
+.manchaRosa {
+    display: none;
+  }
+  @media (min-width: 575.98px) {
+    .manchaRosa {
+      display: inline;
+      width: 10rem;
+    }
+  }
 
-.About{
-   margin-top: 10rem;
+  .manchaRosa {
+    width: 10rem;
+  }
+  @media (min-width: 991.98px) {
+    .manchaRosa {
+      width: 20rem;
+      margin-left: -100px;
+    }
+  } 
+/*----------------------------------------*/
+  .pajaroAzul {
+    width: 3rem;
+      
+  }
+  @media (min-width: 575.98px) {
+    .pajaroAzul {
+      width: 6rem;
+      margin-left: -8rem;
+    }
+  }
+
+  .pajaroAzul {
+    width: 6rem;
+    margin-left: -8rem;
+  }
+  @media (min-width: 991.98px) {
+    .pajaroAzul {
+      width: 11rem;
+      margin-left: -150px;
+      margin-top: -40px;
+    }
 }
 
-h4{
-    font-size: 5rem;
+/*-------------------------------------------------*/
+
+
+.titulo {
+    font-size: 3rem;
     color: #f6c5af;
-    display: flex;
-    justify-content: center;
+    text-align: center;  
+      
+  }
+  @media (min-width: 575.98px) {
+    .titulo {
+        font-size: 4rem;
+        color: #f6c5af;
+        
+    }
+  }
+
+  .titulo {
+      font-size: 4rem;
+      color: #f6c5af;
+      
+  }
+  @media (min-width: 991.98px) {
+    .titulo {
+      font-size: 5rem;
+      color: #f6c5af;
+      display: flex;
+      justify-content: center;
+    }
 }
+
+/*----------------------------------------*/
+
+
 
 p{
-    font-size: 2rem;
+    font-size: 3rem;
     color: #a2b2c4;
     display: flex;
-    justify-content: center;  
-    margin: 0% 15%;
+    text-align: center;  
+    margin: 0% 15% 0% 22%;
+    line-height: 40px;
+    margin-bottom: 50px;
 }
+

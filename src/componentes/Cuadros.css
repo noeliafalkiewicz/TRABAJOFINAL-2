@@ -1,0 +1,26 @@
+
+
+.contenedores{
+      display: flex;
+      justify-content: space-evenly;
+      
+}
+
+.contenedor{
+    width: 15rem;
+    height: 15rem;  
+  }
+.contenedor:hover{
+    transform: scale(1.1);
+}
+.figura{
+    margin-top: 13%;
+    margin-left: 20%;
+}
+
+h6{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    color: #a2b2c4;
+}

@@ -5,6 +5,10 @@ import App from './App';
 import Header from './componentes/Header';
 import Principal from './componentes/Principal';
 import About from './componentes/About';
+import Cuadros from './componentes/Cuadros';
+import Dibujos from './componentes/Dibujos';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +18,8 @@ root.render(
     <Principal/>
     <About/>
     <Cuadros/>
+    <Dibujos/>
+
     
     
 
