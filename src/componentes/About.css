@@ -46,27 +46,27 @@
 
 .titulo {
     font-size: 3rem;
-    color: #f6c5af;
+    color: #e0a387;
     text-align: center;  
       
   }
   @media (min-width: 575.98px) {
     .titulo {
         font-size: 4rem;
-        color: #f6c5af;
+        color: #e0a387;
         
     }
   }
 
   .titulo {
       font-size: 4rem;
-      color: #f6c5af;
+      color: #e0a387;
       
   }
   @media (min-width: 991.98px) {
     .titulo {
       font-size: 5rem;
-      color: #f6c5af;
+      color: #e0a387;
       display: flex;
       justify-content: center;
     }
@@ -74,7 +74,9 @@
 
 /*----------------------------------------*/
 
-
+.titulo{
+    margin-top: -3rem;
+}
 
 p{
     font-size: 3rem;

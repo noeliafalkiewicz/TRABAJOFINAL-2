@@ -7,6 +7,11 @@ import Principal from './componentes/Principal';
 import About from './componentes/About';
 import Cuadros from './componentes/Cuadros';
 import Dibujos from './componentes/Dibujos';
+import Work from './componentes/Work';
+import DibujoYTitulo from './componentes/DibujoYTitulo';
+import Redes from './componentes/Redes';
+import Footer from './componentes/Footer';
+import Formulario from './componentes/Formulario';
 
 
 
@@ -19,6 +24,11 @@ root.render(
     <About/>
     <Cuadros/>
     <Dibujos/>
+    <Work/>
+    <DibujoYTitulo/>
+    <Redes/>
+    
+    <Footer/>
 
     
     

@@ -1,4 +1,11 @@
 
+.imagenes{
+    
+    overflow: hidden;
+    width: 100rem;
+    margin-left: -5rem;
+
+}
 
 .pajarorosa{
    width: 11rem;

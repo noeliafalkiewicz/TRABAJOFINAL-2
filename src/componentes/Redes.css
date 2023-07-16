@@ -1,0 +1,37 @@
+
+.bloque{
+    margin-top: 5rem;
+    width: 40rem;
+}
+.datos{
+    display: flex;
+    margin-left: 0rem;
+    margin-top: 1.5rem;
+}
+
+.log{
+    width: 2.7rem;
+    height: 2.7rem;
+}
+
+.log:hover{
+    transform: scale(1.2);
+}
+
+
+.info{
+    font-size: 1.9rem;
+    margin-left:1rem;
+    margin-top: 0.5rem;
+    color: #aabed5;
+    
+}
+
+.info:hover{
+    text-decoration: underline;
+    transform: scale(1.05);
+}
+
+.contenedorRedesyFormulario{
+    display: flex;
+}

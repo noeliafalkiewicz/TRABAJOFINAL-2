@@ -1,0 +1,25 @@
+
+.caja1{
+    width: 40rem;
+    height: 20rem;
+    background-color: aqua;
+}
+
+.caja2{
+    width: 30rem;
+    height: 50rem;
+    background-color: rgb(42, 157, 157);
+}
+
+.caja3{
+    width: 40rem;
+    height: 19rem;
+    background-color: rgb(80, 96, 96);
+    margin-left: 7.5rem;
+    margin-top: -19rem;
+}
+
+.cajas{
+    display: flex;
+    justify-content: space-evenly;
+}
