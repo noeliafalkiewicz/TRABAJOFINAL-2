@@ -1,7 +1,9 @@
 
 .bloque{
-    margin-top: 5rem;
+    margin-top: 6rem;
+    margin-left: 2rem;
     width: 40rem;
+    
 }
 .datos{
     display: flex;

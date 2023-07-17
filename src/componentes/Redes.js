@@ -10,7 +10,7 @@ function Redes () {
 
     return (
 
-        <section className='contenedorRedesyFormulario'>
+        <div className='contenedorRedesyFormulario'>
             <div className='bloque'>
                <div className='datos'>
                    <img className='log' src={whatsapp} ></img>
@@ -30,7 +30,7 @@ function Redes () {
                 </div>
            </div>
            <Formulario/>
-        </section>
+        </div>
 
         
     )

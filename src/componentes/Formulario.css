@@ -1,9 +1,50 @@
 
 .formulario{
-    background-color: aqua;
-    width: 62rem;
-    height: 57rem;
-    margin-top: 3rem;
-    margin-left: 5rem;
+    width: 50rem;
+    height: 55rem;
+    margin-left: 2rem;
     margin-right: -1rem;
+    overflow: hidden;
+    
 }
+
+.mancharosaformulario{
+    width: 20rem;
+    margin-left: -8rem;
+    margin-top: -9rem;
+    z-index: 1;
+}
+
+
+
+.form-group{
+    display: flex;
+    justify-content: center;
+}
+
+.boton{
+    margin-left: 14.1rem;
+    margin-top: -0.5rem;
+    margin-bottom: 2rem;
+}
+
+.comentario{
+    font-size: 2rem;
+}
+
+.input{
+    width: 30rem;
+    margin-top: 1.8rem;
+    font-size: 1.2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    
+}
+
+.texto{
+    height: 20rem;
+    z-index: 2;
+    
+}
+

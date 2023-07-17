@@ -6,6 +6,7 @@
       display: inline;
     }
   }
+
   .hola{
     font-size: 15px;
     display: flex;
@@ -80,7 +81,7 @@
 .btn{
     display: flex;
     justify-content: center; 
-      
+
 }
 @media (min-width: 991.98px) {
     .btn {
@@ -88,9 +89,10 @@
     }
 }
 
-section{
+.uno{
     margin: 2% 3% 6% 3%;
     height: 39rem;
+    
 }
 
 
@@ -98,9 +100,12 @@ section{
     display: flex;
     justify-content: space-around;
     margin-top: -70px;
+
+    
 }
 .contenedorSecundario{
     margin-left: -3rem;
+    
 }
 
 
