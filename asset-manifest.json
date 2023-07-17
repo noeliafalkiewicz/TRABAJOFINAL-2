@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TRABAJOFINAL-2/static/css/main.9179350c.css",
+    "main.js": "/TRABAJOFINAL-2/static/js/main.b7760e93.js",
+    "static/media/rama.png": "/TRABAJOFINAL-2/static/media/rama.a24797cabefd2e1ea327.png",
+    "static/media/foto1-modificada.png": "/TRABAJOFINAL-2/static/media/foto1-modificada.193e81a80ed7b777bd77.png",
+    "static/media/logo.png": "/TRABAJOFINAL-2/static/media/logo.16f9cbe7e01f2d6396a8.png",
+    "static/media/pajaroazul.png": "/TRABAJOFINAL-2/static/media/pajaroazul.477660d5af50940d9889.png",
+    "static/media/mancharosa.png": "/TRABAJOFINAL-2/static/media/mancharosa.7faf74f8dbc618b61d90.png",
+    "static/media/manchaazul.png": "/TRABAJOFINAL-2/static/media/manchaazul.c1c21df075efd85d4593.png",
+    "static/media/pajarorosa.png": "/TRABAJOFINAL-2/static/media/pajarorosa.4578232b66ae2817b545.png",
+    "static/media/paloma.png": "/TRABAJOFINAL-2/static/media/paloma.e3b93c9553f2187b10db.png",
+    "index.html": "/TRABAJOFINAL-2/index.html",
+    "static/media/menuHamburguesa.svg": "/TRABAJOFINAL-2/static/media/menuHamburguesa.2ca2e22cf825f20bf11220f05b149fef.svg",
+    "main.9179350c.css.map": "/TRABAJOFINAL-2/static/css/main.9179350c.css.map",
+    "main.b7760e93.js.map": "/TRABAJOFINAL-2/static/js/main.b7760e93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9179350c.css",
+    "static/js/main.b7760e93.js"
+  ]
+}
